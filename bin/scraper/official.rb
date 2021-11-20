@@ -7,11 +7,11 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('strong').text.tidy.gsub(/[.,]$/,'').delete_prefix('- ')
+      tds[1].css('p').first.text.tidy
     end
 
     def position
-      noko.xpath('.//strong//following-sibling::text()').text.tidy.gsub(/[.,]$/,'').delete_prefix(': ')
+      tds[1].css('p')[1].text.tidy
     end
 
     private
