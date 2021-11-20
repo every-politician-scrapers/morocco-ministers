@@ -4,12 +4,12 @@
       "id": "Q1028"
     },
     "cabinet": {
-      "id": "Q70220586",
-      "start": "2019-10-09",
+      "id": "Q108828234",
+      "start": "2021-10-07",
       "parent": "Q12208534"
     },
     "source": {
-        "url":   "https://www.maroc.ma/en/content/list-government-0",
+        "url":   "https://www.maroc.ma/en/content/list_of_government",
         "title": "List of Government | Maroc.ma",
         "lang":  {
             "code": "en",
