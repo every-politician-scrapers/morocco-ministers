@@ -1,10 +1,13 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q1638114,Aziz Akhannouch,Aziz Akhannouch,male,1961-01-01,9,,,Q19842743,Prime Minister of Morocco,Q1638114-270aab3b-456e-ff39-915b-150fed0b17ce
-Q26036628,Nasser Bourita,Nasser Bourita,male,1969-05-27,11,,,Q24262486,Minister of Foreign Affairs,Q26036628-ab28536b-45c7-3d82-0bdc-b23603e6f506
-Q2821074,Abdelkader Aamara,Abdelkader Aamara,male,1962-01-28,11,,,Q108326051,"Minister of Equipment, Transport, Logistics and Water",Q2821074-D0914AA5-D415-4BF4-92BB-1B362B4B61FB
-Q2827677,Ahmed Toufiq,Ahmed Toufiq,male,1943-06-22,11,,,Q108325897,Minister of Endowment and Islamic Affairs,Q2827677-1348576A-79A9-4968-A002-3C2331B065BB
-Q30308949,Abdelouafi Laftit,Abdelouafi Laftit,male,1967-09-29,11,,,Q96093288,Minister of the Interior,Q30308949-b28e09fc-4835-6077-1d1e-ca0bf05811c1
-Q3050104,Mustafa Ramid,Mustafa Ramid,male,1959-01-01,11,,,Q108325796,Minister of State for Human Rights and Relations with Parliament,Q3050104-8F7BD927-ED60-4A25-A937-B8B3CDEEA70B
-Q60647407,Mohamed El Hajjoui,Mohamed El Hajjoui,male,1945-09-01,10,,,Q108325810,Secretary General of the Government,Q60647407-A63AD220-E498-4706-91ED-710732BE73FC
-Q73166529,Mohamed Ben Abdelkader,Mohamed Ben Abdelkader,male,1961-04-15,11,,,Q30745352,Minister of Justice,Q73166529-A387BC71-BA86-4666-9C68-7DA030C2A3AD
-Q73167828,Khalid Ait Taleb,Khalid Ait Taleb,male,1966-01-01,9,,,Q88459429,Minister of Health and Social Protection,Q73167828-722759f8-4f58-07d6-b70a-a321c93787e2
+Q108839550,Mohamed Sadiki,Mohamed Sadiki,male,,,,,Q109657948,"Minister of Agriculture, Fisheries, Rural Development and Water and Forests",Q108839550-7B72FB7E-B04B-4D53-91FA-2D3616E68E0C
+Q108842763,Fatim-Zahra AMMOR,Fatim-Zahra Ammor,female,1967-01-01,9,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q109652702,"Minister of Tourism, Handicrafts and Social and Solidarity Economy",Q108842763-F7367738-DEBA-4E5F-8944-B846B43F2814
+Q1638114,Aziz AKHANNOUCH,Aziz Akhannouch,male,1961-01-01,9,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q19842743,Head of government,Q1638114-270aab3b-456e-ff39-915b-150fed0b17ce
+Q26036628,Nasser BOURITA,Nasser Bourita,male,1969-05-27,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q24262486,"Minister of Foreign Affairs, African Cooperation and Moroccans Abroad",Q26036628-ab28536b-45c7-3d82-0bdc-b23603e6f506
+Q2827677,Ahmed TOUFIQ,Ahmed Toufiq,male,1943-06-22,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q108325897,Minister of Endowments and Islamic Affairs,Q2827677-1348576A-79A9-4968-A002-3C2331B065BB
+Q30308949,Abdelouafi LAFTIT,Abdelouafi Laftit,male,1967-09-29,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q96093288,Minister of the Interior,Q30308949-b28e09fc-4835-6077-1d1e-ca0bf05811c1
+Q3067221,Fatima Ezzahra El MANSOURI,Fatima-Zahra Mansouri,female,1976-01-03,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q109652471,"Minister of National Planning, Urban Planning, Housing and Urban Policy",Q3067221-B2C55010-7A58-44E3-AED8-A37CEA9FB044
+Q562410,Nizar BARAKA,Nizar Baraka,male,1964-02-06,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q108326051,Minister of Equipment and Water,Q562410-00180402-F32C-4970-99FC-CBE048852E27
+Q60647407,Mohamed EL HAJJOUI,Mohamed El Hajjoui,male,1945-09-01,10,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q108325810,Secretary General of the Government,Q60647407-A63AD220-E498-4706-91ED-710732BE73FC
+Q73167828,khalid Ait Taleb,Khalid Ait Taleb,male,1966-01-01,9,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q88459429,Minister of Health and Social Protection,Q73167828-722759f8-4f58-07d6-b70a-a321c93787e2
+Q79351303,Nadia Fettah AlAOUI,Nadia Fettah Alaoui,female,1971-09-17,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q109652343,Minister of Economy and Finance,Q79351303-21659f9b-4524-7181-4286-0940937c1f55
+Q96758677,Abdellatif OUAHBI,Abdellatif Ouahbi,male,1961-07-28,11,https://www.maroc.ma/en/content/list_of_government,2021-11-20,Q30745352,Minister of Justice,Q96758677-B73748B1-0B11-49CA-8EE1-436B509CF61D
