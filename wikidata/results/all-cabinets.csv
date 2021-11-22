@@ -6,5 +6,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3111927,1st Benkiran Cabinet,2011-11-29,11,,,,,,,Q12208534,Cabinet of Morocco,,,Q3112031,El Fassi Government,Q15064578,Benkiran II government,,,,
 ,Q15064578,Benkiran II government,2013-10-10,11,,,2017-04-05,11,,,Q12208534,Cabinet of Morocco,,,Q3111927,1st Benkiran Cabinet,Q29034900,El Othmani I Government,,,,
 ,Q29034900,El Othmani I Government,2017-04-05,11,,,,,2019-10-09,11,Q12208534,Cabinet of Morocco,,,Q15064578,Benkiran II government,Q70220586,El Othmani II government,,,,
-,Q70220586,El Othmani II government,2019-10-09,11,,,2021-10-07,11,,,Q12208534,Cabinet of Morocco,,,Q29034900,El Othmani I Government,Q108828234,Q108828234,,,,
-,Q108828234,Q108828234,2021-10-07,11,,,,,,,Q12208534,Cabinet of Morocco,,,Q70220586,El Othmani II government,,,,,,
+,Q70220586,El Othmani II government,2019-10-09,11,,,2021-10-07,11,,,Q12208534,Cabinet of Morocco,,,Q29034900,El Othmani I Government,Q108828234,Akhannouch Government,,,,
+,Q108828234,Akhannouch Government,2021-10-07,11,,,,,,,Q12208534,Cabinet of Morocco,,,Q70220586,El Othmani II government,,,,,,
