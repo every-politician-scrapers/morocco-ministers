@@ -196,53 +196,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Cabinet of Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Morocco"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "cabinet of abdelilah benkirane"
-        },
-        {
-          "template": "cabinet of abbas el fassi"
-        },
-        {
-          "template": "morocco military"
-        },
-        {
-          "state": "collapsed",
-          "template": "mohammed vi"
-        },
-        {
-          "template": "morocco-politician-stub"
-        }
-      ]
     }
   ]
 }

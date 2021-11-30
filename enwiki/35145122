@@ -384,49 +384,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "cabinet of abdelilah benkirane"
-        },
-        {
-          "template": "cabinet of abbas el fassi"
-        },
-        {
-          "template": "morocco-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Ministry of Economy and Finance",
-            "links": [
-              {
-                "text": "Ministry of Economy and Finance",
-                "type": "external",
-                "site": "http://www.finances.gov.ma/portal/page?_pageid=93,1&_dad=portal&_schema=PORTAL"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

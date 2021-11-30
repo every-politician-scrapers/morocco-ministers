@@ -206,45 +206,6 @@
           "template": "citation needed"
         }
       ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bourita is married and has two children."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External link",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "commonscatinline"
-        },
-        {
-          "template": "morocco-stub"
-        }
-      ]
     }
   ]
 }

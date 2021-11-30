@@ -243,46 +243,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Cabinet of Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Morocco"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "cabinet of driss jettou"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "morocco-politician-stub"
-        }
-      ]
     }
   ]
 }
