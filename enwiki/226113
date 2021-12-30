@@ -43,13 +43,8 @@
         {
           "sentences": [
             {
-              "text": "Mohammed VI (محمد السادس, Amazigh: ⵎⵓⵃⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ ; born 21 August 1963) is the King of Morocco.",
+              "text": "Mohammed VI (محمد السادس) is the King of Morocco.",
               "links": [
-                {
-                  "text": "Amazigh",
-                  "type": "internal",
-                  "page": "Standard Moroccan Amazigh"
-                },
                 {
                   "text": "King of Morocco",
                   "type": "internal",
@@ -58,16 +53,17 @@
               ],
               "formatting": {
                 "bold": [
-                  "Mohammed VI "
+                  "Mohammed VI"
                 ]
               }
             },
             {
-              "text": "He belongs to the Alaouite dynasty and ascended to the throne on 23 July 1999, upon the death of his father, King Hassan II.",
+              "text": "He belongs to the 'Alawi dynasty and ascended to the throne on 23 July 1999, upon the death of his father, King Hassan II.",
               "links": [
                 {
+                  "text": "'Alawi dynasty",
                   "type": "internal",
-                  "page": "Alaouite dynasty"
+                  "page": "'Alawi dynasty"
                 },
                 {
                   "text": "Hassan II",
@@ -234,13 +230,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Mohammed VI محمد السادس ⵎⵓⵃⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ"
+            "text": "Mohammed VI محمد السادس"
           },
           "image": {
             "text": "File:King Mohammed VI of Morocco, Africa Forum Summit 2015 (cropped).jpg"
           },
           "alt": {
-            "text": "A picture of King Mohammed VI aged 52"
+            "text": "A picture of King Mohammed VI in 2015"
           },
           "title": {
             "text": "Amir al-Mu'minin",
@@ -303,7 +299,7 @@
             "text": "Moulay Hassan, Crown Prince of Morocco\n\nPrincess Lalla Khadija"
           },
           "full name": {
-            "text": "Sidi Mohammed bin Hassan al Alaoui \nسيدي محمد بن الحسن العلوي Mass Muḥemmed u Ḥasan Aɛalawi ⵎⴰⵙⵙ ⵎⵓⵃⵎⵎⴷ ⵓⵃⴰⵙⴰⵏ ⴰⵄⴰⵍⴰⵡⵉ"
+            "text": "Sidi Mohammed bin Hassan al-Alawi سيدي محمد بن الحسن العلوي"
           },
           "native_lang1": {
             "text": "Arabic",
@@ -317,26 +313,13 @@
           "native_lang1_name1": {
             "text": "الملك محمد السادس"
           },
-          "native_lang2": {
-            "text": "Amazigh",
-            "links": [
-              {
-                "text": "Amazigh",
-                "type": "internal",
-                "page": "Standard Moroccan Amazigh"
-              }
-            ]
-          },
-          "native_lang2_name1": {
-            "text": "ⵎⵓⵃⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ"
-          },
           "dynasty": {
-            "text": "Alaouite",
+            "text": "'Alawi",
             "links": [
               {
-                "text": "Alaouite",
+                "text": "'Alawi",
                 "type": "internal",
-                "page": "Alaouite dynasty"
+                "page": "'Alawi dynasty"
               }
             ]
           },
@@ -350,10 +333,10 @@
             ]
           },
           "mother": {
-            "text": "Aamira Lalla Latifa",
+            "text": "Amira Lalla Latifa",
             "links": [
               {
-                "text": "Aamira Lalla Latifa",
+                "text": "Amira Lalla Latifa",
                 "type": "internal",
                 "page": "Lalla Latifa"
               }
