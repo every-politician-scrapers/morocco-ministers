@@ -355,34 +355,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Official Bio",
-          "url": "http://www.maroc.ma/NR/rdonlyres/9E39F541-837F-43C3-8239-E8C4A5FFCC61/0/BioNizarBaraka.pdf",
-          "publisher": "Government of Morocco",
-          "accessdate": "20 March 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "MAP",
-          "title": "Nizar Baraka s'entretient avec Sylvia Solf",
-          "url": "http://www.maghress.com/fr/lematin/149821",
-          "accessdate": "20 March 2012",
-          "newspaper": "Le MATIN",
-          "date": "2011-04-18",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.finances.gov.ma/fr/Ministere/Pages/nos-anciens-ministres.aspx",
-          "title": "Nos anciens ministres",
-          "author": "MEF - Royaume du Maroc",
-          "website": "www.finances.gov.ma",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

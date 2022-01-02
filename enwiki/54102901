@@ -178,33 +178,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.moroccoembassy.org.au/?q=news/mr-nasser-bourita-new-minister-foreign-affairs-and-international-cooperation",
-          "title": "Mr. Nasser Bourita, New Minister of Foreign Affairs and International Cooperation",
-          "website": "moroccoembassy.org.au",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "SM le Roi nomme Nasser Bourita, ministre délégué auprès du ministre des Affaires étrangères et de la Coopération",
-          "url": "http://www.mapnews.ma/fr/activites-royales/sm-le-roi-nomme-nasser-bourita-ministre-delegue-aupres-du-ministre-des-affaires-et",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.moroccoworldnews.com/2016/02/179206/king-mohammed-vi-appoints-nasser-bourita-as-minister-delegate-to-foreign-minister/",
-          "title": "King Mohammed VI Appoints Nasser Bourita as Minister Delegate to Foreign Minister",
-          "date": "February 6, 2016",
-          "website": "moroccoworldnews.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "September 2017",
-          "template": "citation needed"
-        }
       ]
     }
   ]
