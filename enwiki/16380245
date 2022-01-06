@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Ahmed Toufiq (born 22 June 1943) is a Moroccan historian and novelist who has serving as Minister for Islamic Affairs in the government of Morocco since 2002.",
+              "text": "Ahmed Toufiq (born 22 June 1943) is a Moroccan historian and novelist who is serving as Minister for Islamic Affairs in the government of Morocco since 2002.",
               "links": [
                 {
                   "type": "internal",
@@ -102,30 +102,32 @@
           "birth_place": {
             "text": "Margha, Morocco"
           },
-          "primeminister1": {
-            "text": "Abbas El Fassi",
+          "primeminister": {
+            "text": "Abderrahmane Youssoufi Driss Jettou Abbas El Fassi Abdelilah Benkirane Saadeddine Othmani Aziz Akhannouch",
             "links": [
+              {
+                "type": "internal",
+                "page": "Abderrahmane Youssoufi"
+              },
+              {
+                "type": "internal",
+                "page": "Driss Jettou"
+              },
               {
                 "type": "internal",
                 "page": "Abbas El Fassi"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Abdelilah Benkirane",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Abdelilah Benkirane"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Saadeddine Othmani",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Saadeddine Othmani"
+              },
+              {
+                "type": "internal",
+                "page": "Aziz Akhannouch"
               }
             ]
           },
