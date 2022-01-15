@@ -20,8 +20,13 @@
         {
           "sentences": [
             {
-              "text": "Rachid Talbi Alami (رشيد الطالبي العلمي ; born 1958, Tetouan) is a Moroccan politician of the National Rally of Independents party.",
+              "text": "Rachid Talbi Alami (رشيد الطالبي العلمي ; born 1958, Tetouan) is a Moroccan politician of the National Rally of Independents party who is the President (Speaker) of the House of Representatives of Morocco since October 9th, 2021.",
               "links": [
+                {
+                  "text": "since October 9th, 2021",
+                  "type": "external",
+                  "site": "https://lematin.ma/journal/2021/rachid-talbi-alami-naam-miyara-respectivement-presidents-chambre-representants-chambre-conseillers/365687.html"
+                },
                 {
                   "type": "internal",
                   "page": "Tetouan"
@@ -34,6 +39,15 @@
                 {
                   "type": "internal",
                   "page": "National Rally of Independents"
+                },
+                {
+                  "text": "President (Speaker) of the House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Morocco)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morocco"
                 }
               ],
               "formatting": {
@@ -43,48 +57,12 @@
               }
             },
             {
-              "text": "He was Minister of Trade, Industry and Telecommunication and Delegate-Minister for General and Economic Affairs in the cabinet of Driss Jettou.",
+              "text": "He was elected representative of Tetouan in the 2021 Moroccan general election.",
               "links": [
                 {
-                  "text": "cabinet",
+                  "text": "the 2021 Moroccan general election",
                   "type": "internal",
-                  "page": "cabinet of Morocco"
-                },
-                {
-                  "type": "internal",
-                  "page": "Driss Jettou"
-                }
-              ]
-            },
-            {
-              "text": "He was also Mayor of Tetouan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tetouan"
-                }
-              ]
-            },
-            {
-              "text": "He was the President of the House of Representatives from 2014 to 2017.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Morocco)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Talbi Alami holds a PhD in financial management from the University of Mohammed V.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Mohammed V"
+                  "page": "2021 Moroccan general election"
                 }
               ]
             }
@@ -107,7 +85,7 @@
             "text": "Rachid Talbi Alami"
           },
           "image": {
-            "text": "Rachid Talbi El Alami (cropped).jpg"
+            "text": "Rachid Talbi Alami.jpg"
           },
           "caption": {
             "text": "Rachid Talbi Alami"
