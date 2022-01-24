@@ -54,10 +54,6 @@
           "template": "short description"
         },
         {
-          "date": "September 2021",
-          "template": "update"
-        },
-        {
           "date": "October 2021",
           "template": "use dmy dates"
         },
