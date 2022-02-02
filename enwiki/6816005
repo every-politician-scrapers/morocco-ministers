@@ -37,11 +37,12 @@
               }
             },
             {
-              "text": "He previously served as the Interior Minister of Morocco and has been the lead negotiator for the Moroccan side in the Western Sahara conflict.",
+              "text": "He previously served as the interior minister of Morocco and has been the lead negotiator for the Moroccan side in the Western Sahara conflict.",
               "links": [
                 {
+                  "text": "interior minister",
                   "type": "internal",
-                  "page": "Interior Minister"
+                  "page": "interior minister"
                 },
                 {
                   "type": "internal",
