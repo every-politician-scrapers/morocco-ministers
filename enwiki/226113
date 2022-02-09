@@ -156,7 +156,7 @@
               "text": "Mohammed has vast business holdings across several economic sectors in Morocco."
             },
             {
-              "text": "His net worth has been estimated at between US$2.1 billion and over US$5 billion, and, according to the American business magazine Forbes, he was the richest king in Africa in 2014 and the fifth-richest king in the world.",
+              "text": "His net worth has been estimated at between US$2.1 billion and over US$8.2 billion, and, according to the American business magazine Forbes, he was the richest king in Africa and the fifth-richest king in the world.",
               "links": [
                 {
                   "type": "internal",
@@ -173,6 +173,16 @@
                   "Forbes"
                 ]
               }
+            },
+            {
+              "text": "He is the fifth wealthiest monarch in the world.",
+              "links": [
+                {
+                  "text": "wealthiest monarch in the world",
+                  "type": "internal",
+                  "page": "List of royalty by net worth"
+                }
+              ]
             }
           ]
         }
