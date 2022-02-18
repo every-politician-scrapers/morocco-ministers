@@ -225,6 +225,10 @@
               {
                 "type": "internal",
                 "page": "Tafraout"
+              },
+              {
+                "type": "internal",
+                "page": "Morocco"
               }
             ]
           },
