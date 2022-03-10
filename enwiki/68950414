@@ -1,106 +1,13 @@
 {
-  "title": "Nadia Fettah Alaoui",
-  "pageID": 68950414,
-  "categories": [
-    "Living people",
-    "1971 births",
-    "People from Rabat",
-    "21st-century Moroccan women",
-    "Women government ministers of Morocco"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nadia Fettah Alaoui (born 1971, Rabat) is a Moroccan entrepreneur and politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rabat"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nadia Fettah Alaoui"
-                ]
-              }
-            },
-            {
-              "text": "Since October she is the current Minister of Economy and Finance in the Cabinet of Aziz Akhannoush",
-              "links": [
-                {
-                  "text": "Aziz Akhannoush",
-                  "type": "internal",
-                  "page": "Aziz Akhannouch"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan entrepreneur and politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nadia Fettah Alaoui"
-          },
-          "office": {
-            "text": "Minister of Tourism, Handicrafts, Air Transport and Social Economy"
-          },
-          "termstart": {
-            "text": "2019",
-            "number": 2019
-          },
-          "termend": {
-            "text": "2021",
-            "number": 2021
-          },
-          "birth_date": {
-            "text": "1971",
-            "number": 1971
-          },
-          "birth_place": {
-            "text": "Rabat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rabat"
-              }
-            ]
-          },
-          "image": {
-            "text": "Nadia_Fettah_Alaoui_(cropped).jpg"
-          },
-          "office2": {
-            "text": "Minister of Economy and Finance"
-          },
-          "termstart2": {
-            "text": "2021",
-            "number": 2021
-          },
-          "education": {
-            "text": "Economist"
-          },
-          "succeeded": {
-            "text": "Fatim-Zahra Ammor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fatim-Zahra Ammor"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nadia Fettah Alaoui",
+  "office": "Minister of Tourism, Handicrafts, Air Transport and Social Economy",
+  "termstart": "2019",
+  "termend": "2021",
+  "birth_date": "1971",
+  "birth_place": "Rabat",
+  "image": "Nadia_Fettah_Alaoui_(cropped).jpg",
+  "office2": "Minister of Economy and Finance",
+  "termstart2": "2021",
+  "education": "Economist",
+  "succeeded": "Fatim-Zahra Ammor"
 }

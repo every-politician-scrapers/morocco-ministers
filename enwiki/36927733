@@ -1,311 +1,42 @@
 {
-  "title": "Rachid Talbi Alami",
-  "pageID": 36927733,
-  "categories": [
-    "Government ministers of Morocco",
-    "1958 births",
-    "Living people",
-    "People from Tétouan",
-    "Presidents of the House of Representatives (Morocco)",
-    "Moroccan economists",
-    "Mohammed V University alumni",
-    "Mayors of places in Morocco",
-    "National Rally of Independents politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rachid Talbi Alami (رشيد الطالبي العلمي ; born 1958, Tetouan) is a Moroccan politician of the National Rally of Independents party who is the President (Speaker) of the House of Representatives of Morocco since October 9th, 2021.",
-              "links": [
-                {
-                  "text": "since October 9th, 2021",
-                  "type": "external",
-                  "site": "https://lematin.ma/journal/2021/rachid-talbi-alami-naam-miyara-respectivement-presidents-chambre-representants-chambre-conseillers/365687.html"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tetouan"
-                },
-                {
-                  "text": "Moroccan",
-                  "type": "internal",
-                  "page": "Morocco"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Rally of Independents"
-                },
-                {
-                  "text": "President (Speaker) of the House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Morocco)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Morocco"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Rachid Talbi Alami"
-                ]
-              }
-            },
-            {
-              "text": "He was elected representative of Tetouan in the 2021 Moroccan general election.",
-              "links": [
-                {
-                  "text": "the 2021 Moroccan general election",
-                  "type": "internal",
-                  "page": "2021 Moroccan general election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "February 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1958",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Rachid Talbi Alami"
-          },
-          "image": {
-            "text": "Rachid Talbi Alami.jpg"
-          },
-          "caption": {
-            "text": "Rachid Talbi El Alami"
-          },
-          "office1": {
-            "text": "Speaker of the House of Representatives"
-          },
-          "term_start1": {
-            "text": "9 October 2021"
-          },
-          "predecessor1": {
-            "text": "Habib El Malki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Habib El Malki"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Youth and Sports"
-          },
-          "primeminister2": {
-            "text": "Saadeddine Othmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saadeddine Othmani"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 April 2017"
-          },
-          "term_end2": {
-            "text": "9 October 2019"
-          },
-          "predecessor2": {
-            "text": "Lahcen Sekkouri"
-          },
-          "successor2": {
-            "text": "Hassan Abyaba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hassan Abyaba"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Speaker of the House of Representatives"
-          },
-          "term_start3": {
-            "text": "11 April 2014"
-          },
-          "term_end3": {
-            "text": "16 January 2017"
-          },
-          "predecessor3": {
-            "text": "Karim Ghellab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karim Ghellab"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Habib El Malki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Habib El Malki"
-              }
-            ]
-          },
-          "office4": {
-            "text": "President of Tanger-Tetouan-Al Hoceima Region",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tanger-Tetouan-Al Hoceima"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "October 2009"
-          },
-          "term_end4": {
-            "text": "September 2015"
-          },
-          "office5": {
-            "text": "Mayor of Tétouan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tétouan"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end5": {
-            "text": "2009",
-            "number": 2009
-          },
-          "office6": {
-            "text": "Delegate-Minister for General and Economic Affairs"
-          },
-          "primeminister6": {
-            "text": "Driss Jettou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Driss Jettou"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "8 June 2004"
-          },
-          "term_end6": {
-            "text": "8 October 2007"
-          },
-          "predecessor6": {
-            "text": "Abderazzak El Mossadeq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abderazzak El Mossadeq"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Nizar Baraka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nizar Baraka"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Ministry of Trade, Industry and Telecommunication"
-          },
-          "primeminister7": {
-            "text": "Driss Jettou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Driss Jettou"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "7 November 2002"
-          },
-          "term_end7": {
-            "text": "8 June 2004"
-          },
-          "predecessor7": {
-            "text": "Mustapha Mansouri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mustapha Mansouri"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Salaheddine Mezouar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salaheddine Mezouar"
-              }
-            ]
-          },
-          "party": {
-            "text": "RNI",
-            "links": [
-              {
-                "text": "RNI",
-                "type": "internal",
-                "page": "National Rally of Independents"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1958 (age 64)"
-          },
-          "birth_place": {
-            "text": "Tetouan, Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tetouan"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Mohammed V",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Mohammed V"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Rachid Talbi Alami",
+  "image": "Rachid Talbi Alami.jpg",
+  "caption": "Rachid Talbi El Alami",
+  "office1": "Speaker of the House of Representatives",
+  "term_start1": "9 October 2021",
+  "predecessor1": "Habib El Malki",
+  "office2": "Minister of Youth and Sports",
+  "primeminister2": "Saadeddine Othmani",
+  "term_start2": "5 April 2017",
+  "term_end2": "9 October 2019",
+  "predecessor2": "Lahcen Sekkouri",
+  "successor2": "Hassan Abyaba",
+  "office3": "Speaker of the House of Representatives",
+  "term_start3": "11 April 2014",
+  "term_end3": "16 January 2017",
+  "predecessor3": "Karim Ghellab",
+  "successor3": "Habib El Malki",
+  "office4": "President of Tanger-Tetouan-Al Hoceima Region",
+  "term_start4": "October 2009",
+  "term_end4": "September 2015",
+  "office5": "Mayor of Tétouan",
+  "term_start5": "2003",
+  "term_end5": "2009",
+  "office6": "Delegate-Minister for General and Economic Affairs",
+  "primeminister6": "Driss Jettou",
+  "term_start6": "8 June 2004",
+  "term_end6": "8 October 2007",
+  "predecessor6": "Abderazzak El Mossadeq",
+  "successor6": "Nizar Baraka",
+  "office7": "Ministry of Trade, Industry and Telecommunication",
+  "primeminister7": "Driss Jettou",
+  "term_start7": "7 November 2002",
+  "term_end7": "8 June 2004",
+  "predecessor7": "Mustapha Mansouri",
+  "successor7": "Salaheddine Mezouar",
+  "party": "RNI",
+  "birth_date": "1958 (age 64)",
+  "birth_place": "Tetouan, Morocco",
+  "alma_mater": "University of Mohammed V",
+  "occupation": "Politician"
 }

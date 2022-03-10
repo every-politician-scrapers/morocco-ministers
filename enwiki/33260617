@@ -1,270 +1,34 @@
 {
-  "title": "Aziz Akhannouch",
-  "pageID": 33260617,
-  "categories": [
-    "Berber Moroccans",
-    "Moroccan Berber politicians",
-    "Moroccan billionaires",
-    "Moroccan businesspeople",
-    "People from Tafraout",
-    "1961 births",
-    "Living people",
-    "Moroccan chief executives",
-    "Shilha people",
-    "Université de Sherbrooke alumni",
-    "National Rally of Independents politicians",
-    "Prime Ministers of Morocco"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aziz Akhannouch (عزيز أخنوش; born 1961) is a Moroccan politician, businessman, and billionaire who is currently the Prime Minister of Morocco since his government took office on 7 October 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Morocco"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aziz Akhannouch"
-                ]
-              }
-            },
-            {
-              "text": "He is the CEO of Akwa Group and also served as Minister of Agriculture from 2007 to 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Akwa Group"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan politician and businessman, Prime minister of Morocco",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1961",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "ⵄⴰⵣⵉⵣ ⴰⵅⵏⵏⵓⵛ"
-          ],
-          "translit": "Ɛaziz Axnnuc",
-          "template": "lang-shi"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aziz Akhannouch"
-          },
-          "image": {
-            "text": "Aziz Akhannouch (cropped).jpg"
-          },
-          "imagesize": {
-            "text": "210px"
-          },
-          "caption": {
-            "text": "Aziz Akhannouch in 2018"
-          },
-          "office": {
-            "text": "Prime Minister of Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Morocco"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Mohammed VI",
-            "links": [
-              {
-                "text": "Mohammed VI",
-                "type": "internal",
-                "page": "Mohammed VI of Morocco"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 October 2021"
-          },
-          "predecessor": {
-            "text": "Saadeddine Othmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saadeddine Othmani"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Leader of the National Rally of Independents",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Rally of Independents"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 October 2016"
-          },
-          "predecessor1": {
-            "text": "Salaheddine Mezouar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salaheddine Mezouar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Agriculture, Fisheries, Rural Development, Water and Forests",
-            "links": [
-              {
-                "text": "Minister of Agriculture, Fisheries, Rural Development, Water and Forests",
-                "type": "internal",
-                "page": "Cabinet of Morocco"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 April 2017"
-          },
-          "term_end2": {
-            "text": "10 September 2021"
-          },
-          "primeminister2": {
-            "text": "Saadeddine Othmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saadeddine Othmani"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Himself (as Minister of Agriculture and Fisheries)"
-          },
-          "successor2": {
-            "text": "Mohamed Sadiki"
-          },
-          "office3": {
-            "text": "Minister of Agriculture and Fisheries",
-            "links": [
-              {
-                "text": "Minister of Agriculture and Fisheries",
-                "type": "internal",
-                "page": "Cabinet of Morocco"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "15 October 2007"
-          },
-          "term_end3": {
-            "text": "6 April 2017"
-          },
-          "primeminister3": {
-            "text": "Abbas El Fassi Abdelilah Benkirane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abbas El Fassi"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelilah Benkirane"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Mohand Laenser",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohand Laenser"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Himself (as Minister of Agriculture, Fisheries, Rural Development, Water and Forests)"
-          },
-          "party": {
-            "text": "National Rally of Independents",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Rally of Independents"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1961 (age 61)"
-          },
-          "birth_place": {
-            "text": "Tafraout, Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tafraout"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Salwa Idrissi Akhannouch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salwa Idrissi Akhannouch"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Université de Sherbrooke",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Université de Sherbrooke"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Businessman, Politician"
-          },
-          "website": {
-            "text": "www.akwagroup.com"
-          },
-          "native_name": {
-            "text": "ⵄⴰⵣⵉⵣ ⴰⵅⵏⵏⵓⵛ عزيز أخنوش"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aziz Akhannouch",
+  "image": "Aziz Akhannouch (cropped).jpg",
+  "imagesize": "210px",
+  "caption": "Aziz Akhannouch in 2018",
+  "office": "Prime Minister of Morocco",
+  "monarch": "Mohammed VI",
+  "term_start": "7 October 2021",
+  "predecessor": "Saadeddine Othmani",
+  "office1": "Leader of the National Rally of Independents",
+  "term_start1": "12 October 2016",
+  "predecessor1": "Salaheddine Mezouar",
+  "office2": "Minister of Agriculture, Fisheries, Rural Development, Water and Forests",
+  "term_start2": "6 April 2017",
+  "term_end2": "10 September 2021",
+  "primeminister2": "Saadeddine Othmani",
+  "predecessor2": "Himself (as Minister of Agriculture and Fisheries)",
+  "successor2": "Mohamed Sadiki",
+  "office3": "Minister of Agriculture and Fisheries",
+  "term_start3": "15 October 2007",
+  "term_end3": "6 April 2017",
+  "primeminister3": "Abbas El Fassi Abdelilah Benkirane",
+  "predecessor3": "Mohand Laenser",
+  "successor3": "Himself (as Minister of Agriculture, Fisheries, Rural Development, Water and Forests)",
+  "party": "National Rally of Independents",
+  "birth_date": "1961 (age 61)",
+  "birth_place": "Tafraout, Morocco",
+  "spouse": "Salwa Idrissi Akhannouch",
+  "alma_mater": "Université de Sherbrooke",
+  "occupation": "Businessman, Politician",
+  "website": "www.akwagroup.com",
+  "native_name": "ⵄⴰⵣⵉⵣ ⴰⵅⵏⵏⵓⵛ عزيز أخنوش",
+  "children": "3"
 }
