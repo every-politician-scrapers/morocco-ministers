@@ -1,81 +1,9 @@
 {
-  "title": "Fatim-Zahra Ammor",
-  "pageID": 68977854,
-  "categories": [
-    "National Rally of Independents politicians",
-    "Women government ministers of Morocco",
-    "ENSTA ParisTech alumni",
-    "Year of birth missing (living people)",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fatim-Zahra Ammor is a Moroccan politician of the National Rally of Indepentents (RNI) and current Minister of Tourism, Handicrafts and Social Economy of Morocco.",
-              "links": [
-                {
-                  "text": "Moroccan",
-                  "type": "internal",
-                  "page": "Morocco"
-                },
-                {
-                  "text": "National Rally of Indepentents",
-                  "type": "internal",
-                  "page": "National Rally of Independents"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fatim-Zahra Ammor"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Fatim-Zahra_Ammor.jpg"
-          },
-          "name": {
-            "text": "Fatim-Zahra Ammor"
-          },
-          "office": {
-            "text": "Minister of Tourism, Handicrafts and Social Economy"
-          },
-          "termstart": {
-            "text": "October 2021"
-          },
-          "education": {
-            "text": "Engineer and Business Administration"
-          },
-          "predecessor": {
-            "text": "Nadia Fettah Alaoui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nadia Fettah Alaoui"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Moroccan",
-            "links": [
-              {
-                "text": "Moroccan",
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Fatim-Zahra_Ammor.jpg",
+  "name": "Fatim-Zahra Ammor",
+  "office": "Minister of Tourism, Handicrafts and Social Economy",
+  "termstart": "October 2021",
+  "education": "Engineer and Business Administration",
+  "predecessor": "Nadia Fettah Alaoui",
+  "citizenship": "Moroccan"
 }

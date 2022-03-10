@@ -1,100 +1,10 @@
 {
-  "title": "Fouzi Lekjaa",
-  "pageID": 67516507,
-  "categories": [
-    "1970 births",
-    "Living people",
-    "Association football executives",
-    "People from Berkane"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fouzi Lekjaa (Arabic: فوزي لقجع; born on 23 July 1970) is a Moroccan football administrator and businessman, who is the president of the Royal Moroccan Football Federation since 2014, and a member of the FIFA Council since 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Royal Moroccan Football Federation"
-                },
-                {
-                  "type": "internal",
-                  "page": "FIFA Council"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fouzi Lekjaa"
-                ]
-              }
-            },
-            {
-              "text": "On 7 October 2021 he was appointed Minister Delegate to the Minister of Finance, responsible for the budget."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan Politician",
-          "template": "short description"
-        },
-        {
-          "year": "1970",
-          "month": "07",
-          "day": "22",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "فوزي لقجع.jpg"
-          },
-          "name": {
-            "text": "Fouzi Lekjaa"
-          },
-          "caption": {
-            "text": "Lekjaa in 2017"
-          },
-          "birth_name": {
-            "text": "Fouzi Lekjaa"
-          },
-          "birth_date": {
-            "text": "July 22, 1970"
-          },
-          "birth_place": {
-            "text": "Berkane, Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Berkane"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Moroccan"
-          },
-          "occupation": {
-            "text": "Member, FIFA Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "FIFA Council"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "فوزي لقجع.jpg",
+  "name": "Fouzi Lekjaa",
+  "caption": "Lekjaa in 2017",
+  "birth_name": "Fouzi Lekjaa",
+  "birth_date": "July 22, 1970",
+  "birth_place": "Berkane, Morocco",
+  "nationality": "Moroccan",
+  "occupation": "Member, FIFA Council"
 }

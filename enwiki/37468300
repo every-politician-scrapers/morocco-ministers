@@ -1,146 +1,16 @@
 {
-  "title": "Fatima-Zahra Mansouri",
-  "pageID": 37468300,
-  "categories": [
-    "1976 births",
-    "People from Marrakesh",
-    "Moroccan lawyers",
-    "Living people",
-    "Mayors of places in Morocco",
-    "Authenticity and Modernity Party politicians",
-    "Women mayors of places in Morocco",
-    "21st-century women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fatima Zahra Mansouri (فاطمة الزهراء المنصوري, born January 3, 1976) is a Moroccan lawyer and politician of the Authenticity and Modernity Party (PAM), and currently the mayor of Marrakesh as well as the [[Ministry of National Territory Planning, Land Planning, Housing and City Policy (Morocco)|Minister of National Planning, Urban Planning, Housing and Urban Policy]].",
-              "links": [
-                {
-                  "text": "Moroccan",
-                  "type": "internal",
-                  "page": "Moroccan people"
-                },
-                {
-                  "type": "internal",
-                  "page": "Authenticity and Modernity Party"
-                },
-                {
-                  "text": "mayor",
-                  "type": "internal",
-                  "page": "mayor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Marrakesh"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fatima Zahra Mansouri"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1976",
-          "month": "1",
-          "day": "3",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fatima Zahra Mansouri"
-          },
-          "office": {
-            "text": "Mayor of Marrakesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marrakesh"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 3, 1976"
-          },
-          "birth_place": {
-            "text": "Marrakesh, Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marrakesh"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Moroccan"
-          },
-          "party": {
-            "text": "Authenticity and Modernity Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Authenticity and Modernity Party"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer, politician"
-          },
-          "termstart": {
-            "text": "2021",
-            "number": 2021
-          },
-          "termstart2": {
-            "text": "7 October 2021"
-          },
-          "office2": {
-            "text": "[[Ministry of National Territory Planning, Land Planning, Housing and City Policy (Morocco)|Minister of National Planning, Urban Planning, Housing and Urban Policy]]"
-          },
-          "termstart1": {
-            "text": "June 2009"
-          },
-          "termend1": {
-            "text": "September 2015"
-          },
-          "primeminister2": {
-            "text": "Aziz Akhannouch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aziz Akhannouch"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Nouzha Bouchareb"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fatima Zahra Mansouri",
+  "office": "Mayor of Marrakesh",
+  "birth_date": "January 3, 1976",
+  "birth_place": "Marrakesh, Morocco",
+  "citizenship": "Moroccan",
+  "party": "Authenticity and Modernity Party",
+  "profession": "Lawyer, politician",
+  "termstart": "2021",
+  "termstart2": "7 October 2021",
+  "office2": "[[Ministry of National Territory Planning, Land Planning, Housing and City Policy (Morocco)|Minister of National Planning, Urban Planning, Housing and Urban Policy]]",
+  "termstart1": "June 2009",
+  "termend1": "September 2015",
+  "primeminister2": "Aziz Akhannouch",
+  "predecessor2": "Nouzha Bouchareb"
 }

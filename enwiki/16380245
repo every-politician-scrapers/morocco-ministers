@@ -1,151 +1,16 @@
 {
-  "title": "Ahmed Toufiq",
-  "pageID": 16380245,
-  "categories": [
-    "1943 births",
-    "Berber Moroccans",
-    "Berber writers",
-    "Government ministers of Morocco",
-    "Living people",
-    "Male novelists",
-    "Mohammed V University faculty",
-    "Moroccan historians",
-    "Moroccan male writers",
-    "Moroccan novelists",
-    "Moroccan Sufis",
-    "People from Marrakesh",
-    "Mohammed V University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ahmed Toufiq (born 22 June 1943) is a Moroccan historian and novelist who is serving as Minister for Islamic Affairs in the government of Morocco since 2002.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Morocco"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ahmed Toufiq"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan writer and scholar",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Ahmed Toufiq Hejira"
-          ],
-          "template": "distinguish"
-        },
-        {
-          "year": "1943",
-          "month": "6",
-          "day": "25",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "alma_mater": {
-            "text": "Mohammed V University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed V University"
-              }
-            ]
-          },
-          "thesis_title": {
-            "text": "al-Mujtamaʿ al-Maghribī fī al-Qarn al-Tāsiʿa ʿAshar: ʼInūltāne (1850-1912)"
-          },
-          "doctoral_advisor": {
-            "text": "Germain Ayache",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Germain Ayache"
-              }
-            ]
-          },
-          "discipline": {
-            "text": "Historian"
-          }
-        },
-        {
-          "office": {
-            "text": "Minister of Religious Endowments and Islamic Affairs"
-          },
-          "termstart": {
-            "text": "7 September 2002"
-          },
-          "birth_date": {
-            "text": "June 25, 1943"
-          },
-          "birth_place": {
-            "text": "Margha, Morocco"
-          },
-          "primeminister": {
-            "text": "Abderrahmane Youssoufi Driss Jettou Abbas El Fassi Abdelilah Benkirane Saadeddine Othmani Aziz Akhannouch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abderrahmane Youssoufi"
-              },
-              {
-                "type": "internal",
-                "page": "Driss Jettou"
-              },
-              {
-                "type": "internal",
-                "page": "Abbas El Fassi"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelilah Benkirane"
-              },
-              {
-                "type": "internal",
-                "page": "Saadeddine Othmani"
-              },
-              {
-                "type": "internal",
-                "page": "Aziz Akhannouch"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Mohammed VI",
-            "links": [
-              {
-                "text": "Mohammed VI",
-                "type": "internal",
-                "page": "Mohammed VI of Morocco"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Abdelkebir M'Daghri Alaoui"
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "alma_mater": "Mohammed V University",
+  "thesis_title": "al-Mujtamaʿ al-Maghribī fī al-Qarn al-Tāsiʿa ʿAshar: ʼInūltāne (1850-1912)",
+  "doctoral_advisor": "Germain Ayache",
+  "discipline": "Historian"
+}
+{
+  "office": "Minister of Religious Endowments and Islamic Affairs",
+  "termstart": "7 September 2002",
+  "birth_date": "June 25, 1943",
+  "birth_place": "Margha, Morocco",
+  "primeminister": "Abderrahmane Youssoufi Driss Jettou Abbas El Fassi Abdelilah Benkirane Saadeddine Othmani Aziz Akhannouch",
+  "monarch": "Mohammed VI",
+  "predecessor": "Abdelkebir M'Daghri Alaoui"
 }

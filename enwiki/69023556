@@ -1,86 +1,9 @@
 {
-  "title": "Leila Benali",
-  "pageID": 69023556,
-  "categories": [
-    "Living people",
-    "Women government ministers of Morocco",
-    "Moroccan economists",
-    "Sciences Po alumni",
-    "École Centrale Paris alumni",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leila Benali is a Moroccan economist and politician.",
-              "links": [
-                {
-                  "text": "Moroccan",
-                  "type": "internal",
-                  "page": "Morocco"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Leila Benali"
-                ]
-              }
-            },
-            {
-              "text": "Since October 2021, she is the Minister of Energy Transition and Sustainable Development."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan economist and politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Leila Benali"
-          },
-          "image": {
-            "text": "Leila Benali.jpg"
-          },
-          "office": {
-            "text": "Minister of Energy Transition and Sustainable Development"
-          },
-          "termstart": {
-            "text": "October 2021"
-          },
-          "alma_mater": {
-            "text": "Sciences Po",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sciences Po"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chief Economist of the International Energy Forum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "International Energy Forum"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "2021",
-            "number": 2021
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Leila Benali",
+  "image": "Leila Benali.jpg",
+  "office": "Minister of Energy Transition and Sustainable Development",
+  "termstart": "October 2021",
+  "alma_mater": "Sciences Po",
+  "office2": "Chief Economist of the International Energy Forum",
+  "termstart2": "2021"
 }

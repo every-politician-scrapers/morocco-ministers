@@ -1,174 +1,22 @@
 {
-  "title": "Khalid Aït Taleb",
-  "pageID": 67168941,
-  "categories": [
-    "1966 births",
-    "Moroccan surgeons",
-    "Health ministers of Morocco",
-    "Living people",
-    "People from Agadir"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Khalid Aït Taleb (خالد آيت الطالب; born 1966 in Rabat) is a Moroccan medical professor and politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rabat"
-                },
-                {
-                  "text": "Moroccan",
-                  "type": "internal",
-                  "page": "Morocco"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Khalid Aït Taleb"
-                ]
-              }
-            },
-            {
-              "text": "He is currently the Minister of Health of Morocco."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moroccan politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1966",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Khalid Aït Taleb"
-          },
-          "nationality": {
-            "text": "Moroccan",
-            "links": [
-              {
-                "text": "Moroccan",
-                "type": "internal",
-                "page": "Moroccan nationality law"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "خالد آيت الطالب"
-          },
-          "native_name_lang": {
-            "text": "ar"
-          },
-          "image": {
-            "text": "Khalid Ait Taleb.jpg"
-          },
-          "office": {
-            "text": "Minister of Health of Morocco"
-          },
-          "monarch": {
-            "text": "Mohammed VI",
-            "links": [
-              {
-                "text": "Mohammed VI",
-                "type": "internal",
-                "page": "Mohammed VI of Morocco"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Aziz Akhannouch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aziz Akhannouch"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "predecessor": {
-            "text": "Nabila Rmili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nabila Rmili"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1966 (age 56)"
-          },
-          "birth_place": {
-            "text": "Rabat, Morocco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rabat"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Surgeon, professor"
-          },
-          "termstart2": {
-            "text": "9 October 2019"
-          },
-          "termend2": {
-            "text": "7 October 2021"
-          },
-          "predecessor2": {
-            "text": "Anas Doukkali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anas Doukkali"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nabila Rmili"
-          },
-          "monarch2": {
-            "text": "Mohammed VI"
-          },
-          "primeminister2": {
-            "text": "Saadeddine Othmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saadeddine Othmani"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Khalid Aït Taleb",
+  "nationality": "Moroccan",
+  "native_name": "خالد آيت الطالب",
+  "native_name_lang": "ar",
+  "image": "Khalid Ait Taleb.jpg",
+  "office": "Minister of Health of Morocco",
+  "monarch": "Mohammed VI",
+  "primeminister": "Aziz Akhannouch",
+  "term_start": "14 October 2021",
+  "predecessor": "Nabila Rmili",
+  "birth_date": "1966 (age 56)",
+  "birth_place": "Rabat, Morocco",
+  "party": "Independent",
+  "occupation": "Surgeon, professor",
+  "termstart2": "9 October 2019",
+  "termend2": "7 October 2021",
+  "predecessor2": "Anas Doukkali",
+  "successor2": "Nabila Rmili",
+  "monarch2": "Mohammed VI",
+  "primeminister2": "Saadeddine Othmani"
 }
