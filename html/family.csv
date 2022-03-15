@@ -1,0 +1,76 @@
+id,name,relationship,relative,relativename
+Q108699304,Nabila Rmili,spouse,Q96758923,Taoufik Kamil
+Q1393978,Mohamed El Ouafa,relative,Q2837662,Allal al-Fassi
+Q1638114,Aziz Akhannouch,relative,Q2821247,Abderrahmane Benabdelali
+Q1638114,Aziz Akhannouch,spouse,Q19818452,Salwa Idrissi Akhannouch
+Q20851300,Fouad El Omari,sibling,Q21706309,Ilyas El Omari
+Q20961736,Omar Balafrej,relative,Q3318537,Mohamed El Yazghi
+Q20961736,Omar Balafrej,relative,Q401160,Ahmed Balafrej
+Q20961736,Omar Balafrej,relative,Q7530002,Abderrahim Bouabid
+Q2585447,Taieb Fassi Fihri,child,Q2923549,Brahim Fassi Fihri
+Q2585447,Taieb Fassi Fihri,father,Q3318517,Mohamed El Habib Fassi-Fihri
+Q2585447,Taieb Fassi Fihri,relative,Q3571915,Yasmina Baddou
+Q2585447,Taieb Fassi Fihri,sibling,Q2836210,Ali Fassi-Fihri
+Q27962429,Faouzi Chaâbi,father,Q3314458,Miloud Chaabi
+Q27962429,Faouzi Chaâbi,sibling,Q2866705,Asma Chaabi
+Q2821052,Hamid Chabat,child,Q96758967,Noufal Chabat
+Q2821217,Abdelwahed Radi,relative,Q96758673,Yassine Radi
+Q2866705,Asma Chaabi,father,Q3314458,Miloud Chaabi
+Q2866705,Asma Chaabi,sibling,Q27962429,Faouzi Chaâbi
+Q305956,Abbas El Fassi,child,Q96758717,Abdelmajid Fassi-Fihri
+Q305956,Abbas El Fassi,father,Q2821173,Abdelmajid El Fassi
+Q305956,Abbas El Fassi,relative,Q2821135,Abdellah El Fassi
+Q305956,Abbas El Fassi,relative,Q2821197,Abdelouahed El Fassi
+Q305956,Abbas El Fassi,relative,Q2821289,Abdeslam El Fassi
+Q305956,Abbas El Fassi,relative,Q2837662,Allal al-Fassi
+Q305956,Abbas El Fassi,relative,Q3282080,Malika al-Fassi
+Q305956,Abbas El Fassi,relative,Q3572819,Younes El Mechrafi
+Q305956,Abbas El Fassi,relative,Q562410,Nizar Baraka
+Q305956,Abbas El Fassi,relative,Q95975325,Mohamed Ghali El Fassi
+Q3314458,Miloud Chaabi,child,Q27962429,Faouzi Chaâbi
+Q3314458,Miloud Chaabi,child,Q2866705,Asma Chaabi
+Q3328975,Mustapha Mansouri,sibling,Q16914098,Mimoun Mansouri
+Q3351862,Omar Hejira,father,Q24203093,Abderrahmane Hejira
+Q3351862,Omar Hejira,sibling,Q2827676,Ahmed Taoufiq Hejira
+Q3519491,Thami El Khyari,spouse,Q50825333,Rabéa Naciri
+Q3571915,Yasmina Baddou,father,Q2821246,Abderrahmane Baddou
+Q3571915,Yasmina Baddou,relative,Q2585447,Taieb Fassi Fihri
+Q3571915,Yasmina Baddou,relative,Q2836115,Ali Baddou
+Q3571915,Yasmina Baddou,relative,Q3318517,Mohamed El Habib Fassi-Fihri
+Q3571915,Yasmina Baddou,spouse,Q2836210,Ali Fassi-Fihri
+Q50364860,Souad Zaidi,father,Q85202287,Ahmed Zaidi
+Q50364860,Souad Zaidi,sibling,Q96758654,Said Zaidi
+Q50366932,Touria Skalli,sibling,Q3345301,Nouzha Skalli
+Q50366932,Touria Skalli,sibling,Q96756982,Badia Skalli
+Q537610,Mohand Laenser,child,Q96758892,Hassan Laenser
+Q562410,Nizar Baraka,relative,Q2821198,Abdelouahed El Fassi
+Q562410,Nizar Baraka,relative,Q2837662,Allal al-Fassi
+Q562410,Nizar Baraka,relative,Q305956,Abbas El Fassi
+Q562410,Nizar Baraka,relative,Q96758717,Abdelmajid Fassi-Fihri
+Q57553,Mohammed VI,child,Q1532982,Lalla Khadija of Morocco
+Q57553,Mohammed VI,child,Q276961,Moulay Hassan
+Q57553,Mohammed VI,father,Q69103,Hassan II
+Q57553,Mohammed VI,mother,Q2164270,Lalla Latifa
+Q57553,Mohammed VI,relative,Q193874,Hassan||
+Q57553,Mohammed VI,sibling,Q175176,Moulay Rachid ben al Hassan
+Q57553,Mohammed VI,sibling,Q1996204,Hasna of Morocco
+Q57553,Mohammed VI,sibling,Q2517919,Asma of Morocco
+Q57553,Mohammed VI,sibling,Q276850,Princess Lalla Meryem of Morocco
+Q57553,Mohammed VI,spouse,Q238691,Princess Lalla Salma of Morocco
+Q85202287,Ahmed Zaidi,child,Q50364860,Souad Zaidi
+Q85202287,Ahmed Zaidi,child,Q96758654,Said Zaidi
+Q96756982,Badia Skalli,sibling,Q3345301,Nouzha Skalli
+Q96756982,Badia Skalli,sibling,Q50366932,Touria Skalli
+Q96758625,Abdessamad Archane,father,Q3277781,Mahmoud Archane
+Q96758654,Said Zaidi,father,Q85202287,Ahmed Zaidi
+Q96758654,Said Zaidi,sibling,Q50364860,Souad Zaidi
+Q96758673,Yassine Radi,relative,Q2821217,Abdelwahed Radi
+Q96758717,Abdelmajid Fassi-Fihri,father,Q305956,Abbas El Fassi
+Q96758717,Abdelmajid Fassi-Fihri,relative,Q2821173,Abdelmajid El Fassi
+Q96758717,Abdelmajid Fassi-Fihri,relative,Q562410,Nizar Baraka
+Q96758892,Hassan Laenser,father,Q537610,Mohand Laenser
+Q96758901,Karim Chaoui,father,Q96759016,Belassal Chaoui
+Q96758910,Fatiha Choubani,sibling,Q3049907,Lahbib Choubani
+Q96758923,Taoufik Kamil,spouse,Q108699304,Nabila Rmili
+Q96758967,Noufal Chabat,father,Q2821052,Hamid Chabat
+Q96759016,Belassal Chaoui,child,Q96758901,Karim Chaoui
