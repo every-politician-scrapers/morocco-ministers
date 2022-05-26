@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Morocco",
+      "id": "Q1028"
+    },
+    "cabinet": {
+      "id": "Q108828234",
+      "start": "2021-10-07",
+      "parent": "Q12208534"
+    },
+    "source": {
+        "url":   "https://www.maroc.ma/en/content/list_of_government",
+        "title": "List of Government | Maroc.ma",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/morocco-ministers"
+}
