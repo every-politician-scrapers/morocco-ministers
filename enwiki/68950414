@@ -1,12 +1,17 @@
 {
   "name": "Nadia Fettah Alaoui",
-  "office": "Minister of Tourism, Handicrafts, Air Transport and Social Economy",
-  "termstart": "2019",
-  "termend": "2021",
+  "office": "Minister of Economy and Finance",
+  "termstart": "7 October 2021",
   "birth_date": "1971",
   "birth_place": "Rabat",
-  "office2": "Minister of Economy and Finance",
-  "termstart2": "2021",
+  "office2": "Minister of Tourism, Handicrafts, Air Transport and Social Economy",
+  "termstart2": "2019",
   "education": "Economist",
-  "succeeded": "Fatim-Zahra Ammor"
+  "succeeded2": "Fatim-Zahra Ammor",
+  "termend2": "2021",
+  "preceded": "Mohamed Benchaaboun",
+  "primeminister": "Aziz Akhannouch",
+  "primeminister2": "Saadeddine Othmani",
+  "monarch": "Mohammed VI",
+  "monarch2": "Mohammed VI"
 }
