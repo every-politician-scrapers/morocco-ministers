@@ -1,0 +1,171 @@
+{
+  "title": "Abdellatif Ouahbi",
+  "pageID": 68624641,
+  "categories": [
+    "Berber Moroccans",
+    "Moroccan Berber politicians",
+    "20th-century Moroccan lawyers",
+    "People from Taroudannt",
+    "1961 births",
+    "Living people",
+    "Shilha people",
+    "Authenticity and Modernity Party politicians",
+    "21st-century Moroccan lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdellatif Ouahbi (عبد اللطيف وهبي; born 1961 in Taroudant) is a Moroccan lawyer and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taroudant"
+                },
+                {
+                  "text": "Moroccan",
+                  "type": "internal",
+                  "page": "Morocco"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdellatif Ouahbi"
+                ]
+              }
+            },
+            {
+              "text": "He was elected General Secretary of Authenticity and Modernity Party on 9 February 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Authenticity and Modernity Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moroccan politician",
+          "template": "short description"
+        },
+        {
+          "1": "Biographies",
+          "date": "September 2021",
+          "template": "notability"
+        },
+        {
+          "year": "1961",
+          "month": "7",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdellatif Ouahbi عبد اللطيف وهبي"
+          },
+          "image": {
+            "text": "Abdellatif Ouahbi (portrait).jpg"
+          },
+          "caption": {
+            "text": "Abdellatif Ouahbi in 2021"
+          },
+          "office": {
+            "text": "General Secretary of Authenticity and Modernity Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Authenticity and Modernity Party"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 February 2020"
+          },
+          "predecessor": {
+            "text": "Hakim Benchamach",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakim Benchamach"
+              }
+            ]
+          },
+          "party": {
+            "text": "Authenticity and Modernity Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Authenticity and Modernity Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 28, 1961"
+          },
+          "birth_place": {
+            "text": "Taroudant, Morocco",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taroudant"
+              },
+              {
+                "type": "internal",
+                "page": "Morocco"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Moroccan"
+          },
+          "occupation": {
+            "text": "Lawyer, Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "morocco-politician-stub"
+        }
+      ]
+    }
+  ]
+}

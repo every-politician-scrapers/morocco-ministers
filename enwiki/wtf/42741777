@@ -1,0 +1,401 @@
+{
+  "title": "Rachad Bouhlal",
+  "pageID": 42741777,
+  "categories": [
+    "Moroccan diplomats",
+    "People from Rabat",
+    "Living people",
+    "1951 births",
+    "Ambassadors of Morocco to Germany",
+    "Ambassadors of Morocco to Japan",
+    "Ambassadors of Morocco to the United States",
+    "Moroccan civil servants",
+    "Moroccan expatriates in France",
+    "Ambassadors of Morocco to Belgium",
+    "Ambassadors of Morocco to the Netherlands",
+    "Ambassadors of Morocco to Luxembourg",
+    "Alumni of Lycée Descartes (Rabat)",
+    "Recipients of the Order of Merit of the Federal Republic of Germany"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rachad Bouhlal (رشاد بوهلال; born 26 August 1951, Rabat) is a Moroccan diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rabat"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rachad Bouhlal"
+                ]
+              }
+            },
+            {
+              "text": "He has been the ambassador of Morocco to Japan since 22 December 2016, succeeding Samir Arrour.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samir Arrour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been the ambassador of Morocco to the United States from 18 January 2012 to 2016, succeeding Aziz Mekouar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aziz Mekouar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bouhlal attended the Mission laïque française secondary education establishment Lycée Descartes of Rabat, where graduated in 1970.",
+              "links": [
+                {
+                  "text": "Mission laïque française secondary education",
+                  "type": "internal",
+                  "page": "Mission laïque française"
+                },
+                {
+                  "text": "Lycée Descartes",
+                  "type": "internal",
+                  "page": "Lycée Descartes (Rabat)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moroccan diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "8",
+          "day": "26",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rachad Bouhlal"
+          },
+          "office": {
+            "text": "Ambassador of Morocco to Japan"
+          },
+          "monarch": {
+            "text": "Mohammed VI"
+          },
+          "term_start": {
+            "text": "22 December 2016"
+          },
+          "predecessor": {
+            "text": "Samir Arrour"
+          },
+          "office1": {
+            "text": "Ambassador of Morocco to United States"
+          },
+          "monarch1": {
+            "text": "Mohammed VI",
+            "links": [
+              {
+                "text": "Mohammed VI",
+                "type": "internal",
+                "page": "Mohammed VI of Morocco"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 December 2011"
+          },
+          "term_end1": {
+            "text": "2016",
+            "number": 2016
+          },
+          "predecessor1": {
+            "text": "Aziz Mekouar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aziz Mekouar"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Lalla Joumala Alaoui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lalla Joumala Alaoui"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Ambassador of Morocco to Germany"
+          },
+          "monarch2": {
+            "text": "Mohammed VI"
+          },
+          "term_start2": {
+            "text": "2004",
+            "number": 2004
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "office3": {
+            "text": "Secretary General of the Ministry of Foreign Affairs",
+            "links": [
+              {
+                "text": "Secretary General of the Ministry of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs and Cooperation (Morocco)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1999",
+            "number": 1999
+          },
+          "term_end3": {
+            "text": "2004",
+            "number": 2004
+          },
+          "office4": {
+            "text": "Ambassadors of Morocco to the Benelux",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benelux"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1996",
+            "number": 1996
+          },
+          "term_end4": {
+            "text": "1999",
+            "number": 1999
+          },
+          "birth_date": {
+            "text": "August 26, 1951"
+          },
+          "birth_place": {
+            "text": "Rabat, Morocco",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rabat"
+              },
+              {
+                "type": "internal",
+                "page": "Morocco"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Rouen Business School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rouen Business School"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ceremony of the presentation of credentials was held for the new Ambassador",
+          "url": "http://www.morocco-emba.jp/en/news/2016/20161222.html",
+          "publisher": "Embassy of Morocco in Japan",
+          "access-date": "30 January 2018",
+          "date": "22 December 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.allgov.com/news/appointments-and-resignations/ambassador-from-morocco-who-is-rachad-bouhlal?news=844047",
+          "title": "Ambassador from Morocco: Who Is Rachad Bouhlal?",
+          "publisher": "AllGov",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Maghress: Les Hommes qui font l'actualité",
+          "url": "http://www.maghress.com/fr/leconomiste/5907",
+          "access-date": "13 May 2014",
+          "newspaper": "L'Economiste",
+          "date": "26 May 1994}} {{in lang|fr|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.diplomatie.ma/Portals/0/M.%20Mohamed%20Rachad%20BOUHLAL.pdf",
+          "publisher": "diplomatie.ma",
+          "access-date": "13 May 2014",
+          "archive-url": "https://web.archive.org/web/20140514003306/http://www.diplomatie.ma/Portals/0/M.%20Mohamed%20Rachad%20BOUHLAL.pdf",
+          "url-status": "dead",
+          "archive-date": "14 May 2014}} {{in lang|fr|undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In May 2014, it was revealed that Rachad Bouhlal tried to pressure the Project On Middle East Democracy (POMED) into stripping journalists Ali Anouzla and Aboubakr Jamai, founders of the now censored Lakome news site, of the journalistic award they had given them.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Anouzla"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aboubakr Jamai"
+                },
+                {
+                  "text": "Lakome",
+                  "type": "internal",
+                  "page": "Lakome.com"
+                }
+              ]
+            },
+            {
+              "text": "Both independent journalists were renowned for their independence and criticism of the policies of Mohammed VI.",
+              "links": [
+                {
+                  "text": "journalists",
+                  "type": "internal",
+                  "page": "journalists"
+                },
+                {
+                  "text": "Mohammed VI",
+                  "type": "internal",
+                  "page": "Mohammed VI of Morocco"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "L'ambassadeur du Maroc à Washington a tenté de faire retirer des prix à Anouzla et Jamaï",
+          "url": "http://www.demainonline.com/2014/05/09/lambassadeur-du-maroc-a-washington-a-tente-de-faire-retirer-des-prix-a-anouzla-et-jamai/",
+          "access-date": "13 May 2014",
+          "newspaper": "Demain Online",
+          "date": "9 May 2014}} {{in lang|fr|undefined",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Knight Grand Cross in the Order of the Crown.",
+            "links": [
+              {
+                "text": "Order of the Crown",
+                "type": "internal",
+                "page": "Order of the Crown (Belgium)"
+              }
+            ]
+          },
+          {
+            "text": "Knight Grand Cross in the Order of Merit of the Federal Republic of Germany.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Merit of the Federal Republic of Germany"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Les biographies des nouveaux ambassadeurs marocains",
+          "url": "http://www.medias24.com/map/map-20902-Qui-sont-les-nouveaux-ambassadeurs-marocains.html",
+          "publisher": "Médias 24",
+          "access-date": "30 January 2018",
+          "date": "14 October 2016}} {{in lang|fr|undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ambassador's Message",
+            "links": [
+              {
+                "text": "Ambassador's Message",
+                "type": "external",
+                "site": "http://www.morocco-emba.jp/en/embassy/aisatu-map.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
